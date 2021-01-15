@@ -18,7 +18,7 @@ def update():
 def on_mouse_down(pos):
   if alien.collidepoint(pos):
     set_alien_hurt()
-  
+
 def set_alien_normal():
   alien.image = "alien"
 
