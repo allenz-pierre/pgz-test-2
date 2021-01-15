@@ -1,0 +1,9 @@
+#petit jeu de clicage super facile que j'ai fait
+
+#regles:
+  - #clicker sur l'extra-terrest avant qu'il disparait.
+
+#Comment gagner:
+  - #il vas changer de forme quand vous lui cliquer dessus
+  
+  - si il disparait avant que vous lui clicker dessus, vous avez perdue.

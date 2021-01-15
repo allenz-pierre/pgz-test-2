@@ -10,7 +10,7 @@ def draw():
   screen.fill("red")
   alien.draw()
   if alien.y < 0:
-    print("game over")
+ 
 
 def update():
   alien.x = alien.x + speed 
